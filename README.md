@@ -8,7 +8,7 @@
 
 We've started looking at the DOM and how it's created. Now it's time to see its
 structure.
-
+ 
 If you haven't already, **fork and clone** this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
